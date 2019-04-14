@@ -3,14 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Xraydocs's documentation!
-====================================
+X-ray Diagnostic Simulator Documentation
+========================================
 
-Contents:
+Welcome to the X-ray docs documentation for the Dynamic Behaviour of Materials Group. The
+following pages are here to provide an overview of the X-ray simulation software.
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
-
+   
+   Dependencies <dependencies>
+   
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   
+   Python modules <codedetail>
 
 
 Indices and tables
@@ -19,4 +28,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
