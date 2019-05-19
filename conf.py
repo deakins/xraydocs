@@ -14,7 +14,7 @@ import os
 import sys
 import shlex
 sys.path.insert(0, os.path.abspath('../../'))
-
+#sys.path.insert(0, os.path.abspath('_extensions'))
 
 # -- Project information -----------------------------------------------------
 
@@ -68,7 +68,7 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'images']
 
-highlight_language = 'python3'
+highlight_language = 'python'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'

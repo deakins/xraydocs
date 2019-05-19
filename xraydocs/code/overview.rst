@@ -3,15 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Python Code Detail
-==================
+Code Overview
+=============
 
 .. automodule:: xrays
 
-.. autoclass:: source
-   :members:
-
-.. autoclass:: object2D
-   :members:
-   
-.. autofunction:: calcdelta_ext
+Description of the operation of the python code.

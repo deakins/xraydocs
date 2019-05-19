@@ -13,13 +13,19 @@ following pages are here to provide an overview of the X-ray simulation software
    :hidden:
    :maxdepth: 2
    
-   Dependencies <dependencies>
+   Dependencies <xraydocs/dependencies>
    
 .. toctree::
    :hidden:
    :maxdepth: 2
    
-   Python modules <codedetail>
+   Installation <xraydocs/installation>
+   
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   
+   Python modules <xraydocs/codeindex>
 
 
 Indices and tables
