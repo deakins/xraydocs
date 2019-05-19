@@ -72,10 +72,10 @@ Source Python code
 Main `xray` module:
 :download:`xray.py <../../../xrays.py>`
 
-Example `sphere` object:
-:download:`sphere.py <../../../sphere.py>`
+Object creation module:
+:download:`objects.py <../../../objects.py>`
 
 Example `run` file:
-:download:`run.py <../../../run.py>`
+:download:`run.py <../../../run_example.py>`
 
-.. literalinclude:: ../../../run.py
+.. literalinclude:: ../../../run_example.py
