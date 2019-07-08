@@ -1,8 +1,3 @@
-.. Xraydocs documentation master file, created by
-   sphinx-quickstart on Mon Apr  8 07:40:49 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Installation
 ============
 
@@ -70,12 +65,12 @@ Source Python code
 ------------------
 
 Main `xray` module:
-:download:`xray.py <../../../xrays.py>`
+:download:`xray.py <../../../../XPCI/xrays.py>`
 
 Object creation module:
-:download:`objects.py <../../../objects.py>`
+:download:`objects.py <../../../../XPCI/objects.py>`
 
 Example `run` file:
-:download:`run.py <../../../run_example.py>`
+:download:`run.py <../../../../XPCI/run_example.py>`
 
-.. literalinclude:: ../../../run_example.py
+.. literalinclude:: ../../../../XPCI/run_example.py

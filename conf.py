@@ -13,12 +13,12 @@
 import os
 import sys
 import shlex
-sys.path.insert(0, os.path.abspath('../../'))
+sys.path.insert(0, os.path.abspath('../../XPCI'))
 #sys.path.insert(0, os.path.abspath('_extensions'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'xraydocs'
+project = 'DBMLab Wiki'
 copyright = '2019, Daniel Eakins'
 author = 'Daniel Eakins'
 

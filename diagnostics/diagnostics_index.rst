@@ -3,29 +3,29 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Python Code Index
-=================
+Diagnostics
+===========
 
 .. toctree::
    :hidden:
    :maxdepth: 2
    
-   Overview <code/overview>
+   PDV <pdv/pdv_index>
 
 .. toctree::
    :hidden:
    :maxdepth: 2
    
-   Source class <code/source>
+   line VISAR <lvisar/lvisar_index>
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   
+   Light gates <lightgates/lightgates_index>
    
 .. toctree::
    :hidden:
    :maxdepth: 2
    
-   Object class <code/object>
-   
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-   
-   Detector class <code/detector>
+   Oscilloscopes <scopes/scopes_index>

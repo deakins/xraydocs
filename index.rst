@@ -3,34 +3,31 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-X-ray Diagnostic Simulator Documentation
-========================================
+Dynamic Behaviour of Materials Wiki
+===================================
 
-Welcome to the X-ray docs documentation for the Dynamic Behaviour of Materials Group. The
-following pages are here to provide an overview of the X-ray simulation software.
+Welcome to the wiki for the Dynamic Behaviour of Materials Group. These pages detail the operation of principal loading platforms (i.e. gas guns), diagnostics (PDV, VISAR), equipment (coating rig), and scripts/software.
 
 .. toctree::
    :hidden:
    :maxdepth: 2
    
-   Dependencies <xraydocs/dependencies>
+   Experimental Platforms <platforms/platforms_index>
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   
+   Diagnostics <diagnostics/diagnostics_index>
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   
+   Equipment <equipment/equipment_index>
    
 .. toctree::
    :hidden:
    :maxdepth: 2
    
-   Installation <xraydocs/installation>
-   
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-   
-   Python modules <xraydocs/codeindex>
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Scripts <scripts/scripts_index>
