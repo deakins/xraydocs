@@ -7,19 +7,16 @@ Dynamic Loading Platforms
 =========================
 
 .. toctree::
-   :hidden:
    :maxdepth: 2
    
    Single-stage gas gun <ssgg/ssgg_index>
 
 .. toctree::
-   :hidden:
    :maxdepth: 2
    
    Two-stage gas gun <2stgg/2stgg_index>
 
 .. toctree::
-   :hidden:
    :maxdepth: 2
    
    Mini Hopkinson Bar <mshpb/mshpb_index>
