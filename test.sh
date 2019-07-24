@@ -1,3 +1,3 @@
-source `which virtualenvwrapper.sh`
+source /Library/Frameworks/Python.framework/Versions/3.6/bin/virtualenvwrapper.sh
 workon xrenv
 make html
