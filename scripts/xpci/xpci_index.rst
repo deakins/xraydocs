@@ -21,11 +21,3 @@ following pages are here to provide an overview of the X-ray simulation software
    :maxdepth: 2
    
    Python modules <xpci_codeindex>
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
