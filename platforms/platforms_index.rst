@@ -19,4 +19,4 @@ Dynamic Loading Platforms
 .. toctree::
    :maxdepth: 2
    
-   Mini Hopkinson Bar <mshpb/mshpb_index>
+   Mini Hopkinson Bar dd <mshpb/mshpb_index>
