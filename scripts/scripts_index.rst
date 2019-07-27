@@ -6,6 +6,16 @@ Scripts, code and software
    
    X-ray Phase Contrast Imaging <xpci/xpci_index>
 
+.. toctree::
+   :maxdepth: 2
+   
+   X-ray diffraction calculator (MD) <mdxrd/mdxrd_index>
+   
+.. toctree::
+   :maxdepth: 2
+   
+   1D gas-gun simulator <gg1d/gg1d_index>
+
 Indices and tables
 ------------------
 
