@@ -16,6 +16,16 @@ Scripts, code and software
    
    1D gas-gun simulator <gg1d/gg1d_index>
 
+.. toctree::
+   :maxdepth: 2
+   
+   Oscilloscope binary decoder <oscbin/oscbin_index>
+
+.. toctree::
+   :maxdepth: 2
+   
+   LS-DYNA input deck builder <dynadeck/dynadeck_index>
+
 Indices and tables
 ------------------
 

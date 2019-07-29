@@ -16,7 +16,7 @@ New starters should review the information below:
 .. toctree::
    :maxdepth: 1
    
-   Safety courses <safety>
+   Safety <safety>
 
 .. toctree::
    :maxdepth: 1
