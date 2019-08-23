@@ -6,8 +6,19 @@
 Korvus Coating Rig
 ==================
 
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-   
-   Overview <korvus_overview>
+.. figure:: Korvus.jpg
+   :scale: 20 %
+   :alt: Photo of Korvus deposition system
+
+   Korvus deposition system.
+
+
+Specifications
+--------------
+
+ - Sputtering
+ - Thermal source
+
+
+Operation
+---------

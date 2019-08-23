@@ -7,4 +7,4 @@ Confluence
 
 .. raw:: html 
 
-   <video controls src="../../_static/confluence.m4v" width="640"></video>
+   <video controls src="../../videos/confluence.m4v" width="640"></video>
