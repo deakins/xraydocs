@@ -7,7 +7,7 @@ Korvus Coating Rig
 ==================
 
 .. figure:: Korvus.jpg
-   :scale: 20 %
+   :width: 400
    :alt: Photo of Korvus deposition system
 
    Korvus deposition system.

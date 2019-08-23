@@ -2,7 +2,7 @@ Single-stage gas gun
 ====================
 
 .. figure:: ssgg.png
-   :scale: 20 %
+   :width: 400
    :alt: Photo of single-stage gas gun
 
    The single-stage gas gun is on the left.

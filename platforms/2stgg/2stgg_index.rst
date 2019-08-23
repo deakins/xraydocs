@@ -2,7 +2,7 @@ Two-stage gas gun
 =================
 
 .. figure:: 2stgg.jpg
-   :scale: 20 %
+   :width: 600
    :alt: Photo of 2-stage light gas gun
 
    2-stage light gas gun system

@@ -2,7 +2,7 @@ mini Split Hopkinson Pressure Bar
 =================================
 
 .. figure:: mshpb.jpg
-   :scale: 20 %
+   :width: 600
    :alt: Photo of mini-SHPB system
 
    mini-SHPB system
