@@ -12,6 +12,7 @@ There is a kitchen area outside the fob access door. This is a general use area,
 Group space
 -----------
 The bulk of the DBM group shares an office at the end of the main corridor, adjacent to my office and just opposite the visualisation suite. As we are growing, researchers might also occupy desks in the larger open-plan area on the other side of my office. There are some general rules to follow to be a good neighbour:
+
  - Use headphones
  - Take calls, meetings outside or 
  - Try to avoid eating particularly smelly foods in the office

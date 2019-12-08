@@ -31,6 +31,7 @@ The pump is turned on by a power switch located on the rear of the pump (show im
 Operation
 ---------
 Assuming the sabot is loaded and the gun closed-up and prepared for drawing a vacuum:
+
  - Ensure the vacuum line is connected to the relevant target tank.
  - Close the hand valve before the primary pump system.
  - Verify all LabVIEW controlled valves (main and sabot valves) are closed.
