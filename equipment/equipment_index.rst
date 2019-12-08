@@ -11,3 +11,9 @@ Equipment
    :maxdepth: 2
    
    Korvus coating rig <korvus/korvus_index>
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   
+   Vacuum pumps <pumps/pumps_index>

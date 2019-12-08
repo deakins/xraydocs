@@ -27,3 +27,8 @@ Various information about the DBM group is kept on several online resources:
    :maxdepth: 1
    
    IEL Website <ielwebsite>
+
+.. toctree::
+   :maxdepth: 1
+   
+   Teams <teams>
