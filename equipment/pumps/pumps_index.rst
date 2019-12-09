@@ -17,7 +17,7 @@ Primary pump system
 
 The primary vacuum system is a Lleybold Ruvac WA 251 backed by a Leybold D65.
 
-The pumps are turned on independently from their respective 3-phase switches (show images). It is very important to remember that the Roots pump cannot be switched on unless a sufficient vacuum (absolutely no greater than 10 Torr) is achieved! Turning the Roots on at higher pressure levels will damage it and reduce its overall life.
+The pumps are turned on independently from their respective 3-phase switches (show images). It is very important to remember that the Roots pump *cannot be switched on* unless a sufficient vacuum (absolutely no greater than 10 Torr) is achieved! Turning the Roots on at higher pressure levels will damage it and reduce its overall life.
 
 Sabot vacuum system
 -------------------
