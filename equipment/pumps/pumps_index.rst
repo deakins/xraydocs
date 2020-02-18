@@ -9,7 +9,7 @@ There are several pumps used to draw a vacuum on the various gas gun platforms i
 
 Primary pump system
 -------------------
-.. figure:: mainpump.jpg
+.. figure:: mainpump_annot.jpg
    :width: 400
    :alt: Photo of primary vacuum pump system
 
@@ -19,7 +19,7 @@ The primary vacuum system is a Lleybold Ruvac WA 251 backed by a Leybold D65.
 
 The pumps are turned on independently from their respective 3-phase switches:
 
-.. figure:: switches.jpg
+.. figure:: switches_annot.jpg
    :width: 400
    :alt: Photo of primary pump switches
 
@@ -29,7 +29,7 @@ It is very important to remember that the Roots pump *cannot be switched on* unl
 
 Sabot vacuum system
 -------------------
-.. figure:: sabotpump.jpg
+.. figure:: sabotpump_annot.jpg
    :width: 400
    :alt: Photo of sabot vacuum pump
 
