@@ -8,6 +8,10 @@ following pages are here to provide an overview of the X-ray simulation software
 
    $ git clone ssh://git@daneakins.com:55/volume1/git/python_xpci.git <dest-directory>
 
+.. code-block:: console
+
+   $ git clone ssh://gituser@163.1.15.221:55/git/python_xpci.git <dest-directory>
+
 .. toctree::
    :hidden:
    :maxdepth: 2
