@@ -15,7 +15,7 @@ where the contents of ``setup.py`` are as follows:
 
 The run file
 ------------
-A run script is recommended. The following will detail the main elements of a simulation.
+A run script is recommended (an example is provided in ``run_example.py``). The following will detail the main elements of a simulation.
 
 **Import modules**
 
